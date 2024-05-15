@@ -1,0 +1,2084 @@
+@keyframes animation-1952946 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1952946 {
+  animation: animation-1952946 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952945 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1952945 {
+  animation: animation-1952945 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952948 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1952948 {
+  animation: animation-1952948 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953003 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1953003 {
+  animation: animation-1953003 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953058 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1953058 {
+  animation: animation-1953058 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953113 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 6;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1953113 {
+  animation: animation-1953113 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953168 {
+  from {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 6;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+  to {
+    width: 264px;
+    height: 840px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    border-radius: 0px 0px 0px 0px;
+  }
+}
+.animationClass-1953168 {
+  animation: animation-1953168 1.0220937728881836s
+    cubic-bezier(0.28, -0.01, 1, 1.61) 0s normal forwards;
+}
+@keyframes animation-1952157 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952157 {
+  animation: animation-1952157 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952936 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952936 {
+  animation: animation-1952936 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952994 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952994 {
+  animation: animation-1952994 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953040 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953040 {
+  animation: animation-1953040 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953086 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953086 {
+  animation: animation-1953086 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953132 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953132 {
+  animation: animation-1953132 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952231 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952231 {
+  animation: animation-1952231 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952927 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952927 {
+  animation: animation-1952927 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952949 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952949 {
+  animation: animation-1952949 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953049 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953049 {
+  animation: animation-1953049 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953095 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953095 {
+  animation: animation-1953095 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953141 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953141 {
+  animation: animation-1953141 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952240 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952240 {
+  animation: animation-1952240 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952918 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952918 {
+  animation: animation-1952918 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952958 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952958 {
+  animation: animation-1952958 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953004 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953004 {
+  animation: animation-1953004 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953104 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953104 {
+  animation: animation-1953104 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953150 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953150 {
+  animation: animation-1953150 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952249 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952249 {
+  animation: animation-1952249 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952909 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952909 {
+  animation: animation-1952909 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952967 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952967 {
+  animation: animation-1952967 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953013 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953013 {
+  animation: animation-1953013 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953059 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953059 {
+  animation: animation-1953059 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953159 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953159 {
+  animation: animation-1953159 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952258 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952258 {
+  animation: animation-1952258 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952900 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952900 {
+  animation: animation-1952900 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952976 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952976 {
+  animation: animation-1952976 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953022 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953022 {
+  animation: animation-1953022 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953068 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953068 {
+  animation: animation-1953068 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953114 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953114 {
+  animation: animation-1953114 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952267 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952267 {
+  animation: animation-1952267 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952891 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 572px;
+    left: 0px;
+    opacity: 1;
+    z-index: 4;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952891 {
+  animation: animation-1952891 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1952985 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 429px;
+    left: 0px;
+    opacity: 1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1952985 {
+  animation: animation-1952985 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953031 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 286px;
+    left: 0px;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953031 {
+  animation: animation-1953031 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953077 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 143px;
+    left: 0px;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953077 {
+  animation: animation-1953077 0.30000001192092896s ease-out 0s normal forwards;
+}
+@keyframes animation-1953123 {
+  from {
+    width: 264px;
+    height: 125px;
+    top: 0px;
+    left: 0px;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+  to {
+    width: 264px;
+    height: 125px;
+    top: 715px;
+    left: 0px;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    overflow: hidden;
+    border-radius: 24px 24px 24px 24px;
+    background: #dee1e54d;
+    box-shadow:
+      inset 0 0 0 1px linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 0 1px 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 0 1px 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%),
+      inset 1px 0 0 0 linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-left: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-right: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-top: 0px solid linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    border-bottom: 0px solid
+      linear-gradient(180deg, #093f89ff 0%, #4799ffff 100%);
+    backdrop-filter: blur(7.5px);
+  }
+}
+.animationClass-1953123 {
+  animation: animation-1953123 0.30000001192092896s ease-out 0s normal forwards;
+}
